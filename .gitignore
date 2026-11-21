@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+monitor.sqlite3
+monitor.sqlite3-shm
+monitor.sqlite3-wal
